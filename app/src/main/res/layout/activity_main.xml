@@ -25,15 +25,15 @@
         <ImageView
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="4"
             android:src="@drawable/me"/>
 
         <ImageView
             android:padding="10dp"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:src="@drawable/ride"/>
+            android:layout_weight="5"
+            android:src="@drawable/ride1"/>
     </LinearLayout>
 
     <TextView
@@ -42,7 +42,7 @@
         android:layout_height="0dp"
         android:layout_weight="8"
         android:gravity="center"
-        android:text="就讀於靜宜大學資管系，對資訊及新科技十分的感興趣。\n\n
+        android:text="就讀於靜宜大學資管系，因為對資訊及新科技十分的感興趣。\n\n
 興趣十分多元，常常會想嘗試不同的事情，戶外活動喜歡爬山及騎腳踏車，對攝影也有一點興趣，喜歡需要策略思考的桌遊及電玩。\n\n
 最近正在鑽研西洋棋，朝著Grandmaster邁進，歡迎互相交流切磋~~"
         android:textSize="20dp"/>
